@@ -1,0 +1,51 @@
+body {
+	font-family: 'Baloo Paaji 2', cursive;
+	font-size: 18px;
+	color: #000;
+	background-color: #fff;
+}
+#header-nav {
+	background-color: #6b5b95;
+	border-radius: 0;
+	border-bottom: 1px solid #284a26;
+}
+.navbar-brand>a {
+	font-size: 2em;
+	text-decoration: none;
+	color: #000000;
+}
+.container-fluid {
+margin-left: 3vw;
+margin-right: 3vw;
+}
+.container-fluid #menu-header {
+		font-size: 3em;
+}
+#chicken{
+		font-size: 1.5em;
+}
+#main-content {
+	background-color: #a2b9bc;
+}
+#nav-list li a {
+	background-color: #b2ad7f;
+	text-decoration: none;
+	color: #000000;
+}
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+
+}
